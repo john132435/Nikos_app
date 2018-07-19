@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BookWorm</string>
+    <string name="best_rating">ΚΑΛΥΤΕΡΑ ΒΙΒΛΙΑ</string>
+    <string name="delete">ΔΙΕΓΡΑΨΕ</string>
+    <string name="worst_rating">ΧΕΙΡΟΤΕΡΑ ΒΙΒΛΙΑ</string>
+    <string name="rating">ΒΑΘΜΟΛΟΓΙΑ</string>
+    <string name="fill_blanks">Γέμισε τα κενά</string>
+    <string name="enter_name">Βάλε ορθό όνομα</string>
+    <string name="edit_fields">Γέμισε τα πεδία</string>
+    <string name="valid_year">Βάλε ορθή ημερομηνία</string>
+    <string name="valid_rating">Βάλε ορθή βαθμολογία</string>
+    <string name="nothing_deleted">Το βιβλίο δεν βρέθηκε.</string>
+    <string name="already_entered">Έχετε ήδη προσθέσει αυτό το βιβλίο.</string>
+    <string name="title">ΤΙΤΛΟΣ</string>
+    <string name="find">ΒΡΕΣ</string>
+    <string name="publisher">ΕΚΔΟΤΗΣ</string>
+    <string name="new_entry">ΠΡΟΣΘΕΣΕ</string>
+    <string name="update">ΑΛΛΑΞΕ</string>
+</resources>

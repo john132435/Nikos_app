@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BookWorm</string>
+    <string name="title">TITLE</string>
+    <string name="publisher">PUBLISHER</string>
+    <string name="rating">RATING</string>
+    <string name="new_entry">NEW</string>
+    <string name="worst_rating">Worst Rating</string>
+    <string name="best_rating">Best Rating</string>
+    <string name="update">UPDATE</string>
+    <string name="find">FIND</string>
+    <string name="delete">DELETE</string>
+    <string name="nothing_deleted">Could not find the book.</string>
+    <string name="already_entered">You have already entered the book.</string>
+    <string name="fill_blanks">Fill the blanks</string>
+    <string name="enter_info">Fill the blanks</string>
+    <string name="valid_year">Enter a valid year</string>
+    <string name="valid_rating">Enter a valid rating</string>
+    <string name="edit_fields">Please edit all fields</string>
+</resources>
